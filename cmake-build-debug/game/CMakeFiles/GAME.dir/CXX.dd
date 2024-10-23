@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build game\CMakeFiles\GAME.dir\main.cpp.obj: dyndep
+
+build game\CMakeFiles\GAME.dir\src\gc_MainScene.cpp.obj: dyndep
+

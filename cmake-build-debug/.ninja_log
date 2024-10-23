@@ -1,0 +1,36 @@
+# ninja log v6
+14	96	7514276204783864	engine/CMakeFiles/engine_lib.dir/src/je_GameBase.cpp.obj.ddi	ad1ea6c99be64e3d
+10	44	7514277451889418	C:/Users/joshb/Documents/[01] Projects/[01] C/[01] CPP/GraciousCafe/cmake-build-debug/game/CMakeFiles/GAME.dir/CXXModules.json	89ff4101ee462830
+4	40	7514277451825211	engine/CMakeFiles/engine_lib.dir/src/je_Engine.cpp.obj.modmap	18acc1188e42d676
+31	328	7514276204949847	game/CMakeFiles/GAME.dir/src/gc_MainScene.cpp.obj.ddi	9f2e8a8e8f85937a
+24	388	7514276204868825	game/CMakeFiles/GAME.dir/main.cpp.obj.ddi	9064f0b459a9e4e0
+7	403	7514276204701260	engine/CMakeFiles/engine_lib.dir/src/je_Engine.cpp.obj.ddi	cc868cf8c84eedc
+10	44	7514277451889418	game/CMakeFiles/GAME.dir/CXX.dd	89ff4101ee462830
+10	44	7514277451889418	game/CMakeFiles/GAME.dir/main.cpp.obj.modmap	89ff4101ee462830
+10	44	7514277451889418	game/CMakeFiles/GAME.dir/src/gc_MainScene.cpp.obj.modmap	89ff4101ee462830
+4	40	7514277451825211	engine/CMakeFiles/engine_lib.dir/CXX.dd	18acc1188e42d676
+4	40	7514277451825211	C:/Users/joshb/Documents/[01] Projects/[01] C/[01] CPP/GraciousCafe/cmake-build-debug/engine/CMakeFiles/engine_lib.dir/CXXModules.json	18acc1188e42d676
+4	40	7514277451825211	engine/CMakeFiles/engine_lib.dir/src/je_GameBase.cpp.obj.modmap	18acc1188e42d676
+454	511	7514276209172380	engine/CMakeFiles/engine_lib.dir/src/je_GameBase.cpp.obj	d9ce3ee153c4dcc8
+443	1629	7514276209062356	game/CMakeFiles/GAME.dir/src/gc_MainScene.cpp.obj	2c1095b614dbc127
+437	1727	7514276209011972	game/CMakeFiles/GAME.dir/main.cpp.obj	892198ba03de12af
+449	1735	7514276209122386	engine/CMakeFiles/engine_lib.dir/src/je_Engine.cpp.obj	1ca560ddea4ea59f
+1735	1804	7514276221981444	engine/engine_lib.lib	e1ad4170cd013db5
+2	116	7514278831796491	build.ninja	2ee32af54864cb44
+3	28	7514278832150061	engine/CMakeFiles/engine_lib.dir/CXX.dd	18acc1188e42d676
+3	28	7514278832150061	C:/Users/joshb/Documents/[01] Projects/[01] C/[01] CPP/GraciousCafe/cmake-build-debug/engine/CMakeFiles/engine_lib.dir/CXXModules.json	18acc1188e42d676
+3	28	7514278832150061	engine/CMakeFiles/engine_lib.dir/src/je_Engine.cpp.obj.modmap	18acc1188e42d676
+3	28	7514278832150061	engine/CMakeFiles/engine_lib.dir/src/je_GameBase.cpp.obj.modmap	18acc1188e42d676
+7	164	7514278832198360	game/CMakeFiles/GAME.dir/main.cpp.obj.ddi	9064f0b459a9e4e0
+164	187	7514278833762654	game/CMakeFiles/GAME.dir/CXX.dd	89ff4101ee462830
+164	187	7514278833762654	C:/Users/joshb/Documents/[01] Projects/[01] C/[01] CPP/GraciousCafe/cmake-build-debug/game/CMakeFiles/GAME.dir/CXXModules.json	89ff4101ee462830
+164	187	7514278833762654	game/CMakeFiles/GAME.dir/main.cpp.obj.modmap	89ff4101ee462830
+164	187	7514278833762654	game/CMakeFiles/GAME.dir/src/gc_MainScene.cpp.obj.modmap	89ff4101ee462830
+188	800	7514278833998555	game/CMakeFiles/GAME.dir/main.cpp.obj	892198ba03de12af
+4	110	7514279491252036	game/CMakeFiles/GAME.dir/main.cpp.obj.ddi	9064f0b459a9e4e0
+110	132	7514279492313374	game/CMakeFiles/GAME.dir/CXX.dd	89ff4101ee462830
+110	132	7514279492313374	C:/Users/joshb/Documents/[01] Projects/[01] C/[01] CPP/GraciousCafe/cmake-build-debug/game/CMakeFiles/GAME.dir/CXXModules.json	89ff4101ee462830
+110	132	7514279492313374	game/CMakeFiles/GAME.dir/main.cpp.obj.modmap	89ff4101ee462830
+110	132	7514279492313374	game/CMakeFiles/GAME.dir/src/gc_MainScene.cpp.obj.modmap	89ff4101ee462830
+133	695	7514279492544113	game/CMakeFiles/GAME.dir/main.cpp.obj	892198ba03de12af
+695	2831	7514279498161331	game/GAME.exe	b6c697cd8a35b97

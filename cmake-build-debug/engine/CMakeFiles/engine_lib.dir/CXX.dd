@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build engine\CMakeFiles\engine_lib.dir\src\je_Engine.cpp.obj: dyndep
+
+build engine\CMakeFiles\engine_lib.dir\src\je_GameBase.cpp.obj: dyndep
+

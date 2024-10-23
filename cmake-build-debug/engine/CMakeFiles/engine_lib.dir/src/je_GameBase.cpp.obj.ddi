@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "engine\\CMakeFiles\\engine_lib.dir\\src\\je_GameBase.cpp.obj",
+            "outputs": [
+                "C:\\Users\\joshb\\Documents\\[01] Projects\\[01] C\\[01] CPP\\GraciousCafe\\cmake-build-debug\\vc140.pdb",
+                "engine\\CMakeFiles\\engine_lib.dir\\src\\je_GameBase.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

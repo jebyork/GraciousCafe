@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "game\\CMakeFiles\\GAME.dir\\src\\gc_MainScene.cpp.obj",
+            "outputs": [
+                "C:\\Users\\joshb\\Documents\\[01] Projects\\[01] C\\[01] CPP\\GraciousCafe\\cmake-build-debug\\vc140.pdb",
+                "game\\CMakeFiles\\GAME.dir\\src\\gc_MainScene.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}
